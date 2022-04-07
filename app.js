@@ -18,7 +18,7 @@ console.log(`FIZZBUZZ`)
 else if(counter2 % 3 == 0){
     console.log(`FIZZ`)
 
-}else if (counter2 %5 == 0 ){
+}else if (counter2 % 5 == 0 ){
     console.log(`BUZZ`)
 }
 }
